@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 こんにちは、Tsubasa Okumaです！
 
-<!--
-**UonomeUota/UonomeUota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 デザイン学部でインタラクティブなデザインを学びつつ、現在は公務員としてアフターファイブにプログラミングをしています。
+💻 最近は **React / Next.js / UE5** などを使った制作に力を入れています。  
+🎮 学内課題や個人プロジェクトでは、クリックゲームやシューティング、3DCGアニメーション制作をしています。  
 
-Here are some ideas to get you started:
+## 興味のある分野
+- フロントエンド開発（React, Next.js）
+- ゲーム開発（Godot, Phaser.js, Three.js）
+- 3DCGアニメーション（UE5, Blender）
+- デザインとテクノロジーの融合  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 今後の目標
+- オリジナルのゲームを完成させて公開する  
+- デザイン × IT の強みを活かした表現方法を探求する  
+- GitHubを通じて学びを記録し、成長を共有する  
+
+---
+
+📫 ご連絡は「tsubasaocaarina@gmail.com」へどうぞ
